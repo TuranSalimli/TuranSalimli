@@ -1,5 +1,5 @@
 <!-- En üstte sadece tek bir resim/banner koymak için -->
-![Header](./header.png)
+<!--  ![Header](./header.png) -->
 
 <h1 align="center">Hi 👋, I'm Turan</h1>
 <h3 align="center">.NET Backend Developer | C# Enthusiast | Clean Architecture Follower</h3>
