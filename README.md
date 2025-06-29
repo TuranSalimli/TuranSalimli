@@ -12,7 +12,7 @@
 - 🤝 Open to collaborate on backend projects and architecture discussions
 - 📫 Let's connect:  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/turan-salimli-3604b3349/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/salimli09/" target="_blank">
