@@ -80,4 +80,43 @@
 </p>
 
 
-![snake gif](https://github.com/TuranSalimli/TuranSalimli/blob/output/github-contribution-grid-snake.svg)
+## GitHub Contribution Snake
+
+### Default Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+### Dark Theme Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/github-snake-dark.svg" alt="GitHub Dark Contribution Snake" width="100%"/>
+
+### Ocean Theme Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/ocean.svg" alt="GitHub Ocean Contribution Snake" width="100%"/>
+
+### Retro Style Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/retro-snake.svg" alt="GitHub Retro Contribution Snake" width="100%"/>
+
+### Game Style Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/game-snake.svg" alt="GitHub Game Contribution Snake" width="100%"/>
+
+### Developer Style Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
+
+### Forest Style Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/forest-snake.svg" alt="GitHub Forest Contribution Snake" width="100%"/>
+
+### Cosmic Style Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/cosmic-snake.svg" alt="GitHub Cosmic Contribution Snake" width="100%"/>
+
+### Sunset Style Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/sunset-snake.svg" alt="GitHub Sunset Contribution Snake" width="100%"/>
+
+### Cyber Style Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/cyber-snake.svg" alt="GitHub Cyber Contribution Snake" width="100%"/>
+
+### Desert Style Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/desert-snake.svg" alt="GitHub Desert Contribution Snake" width="100%"/>
+
+### Ocean Depth Style Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/ocean-depth-snake.svg" alt="GitHub Ocean Depth Contribution Snake" width="100%"/>
+
+### Aurora Style Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/aurora-snake.svg" alt="GitHub Aurora Contribution Snake" width="100%"/>
