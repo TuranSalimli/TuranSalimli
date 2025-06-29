@@ -82,7 +82,14 @@
 
 ## GitHub Contribution Snake
 
-### Default Snake
+
+### Developer Style Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
+
+### Retro Style Snake
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/retro-snake.svg" alt="GitHub Retro Contribution Snake" width="100%"/>
+
+<!-- ### Default Snake
 <img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 ### Dark Theme Snake
@@ -91,14 +98,8 @@
 ### Ocean Theme Snake
 <img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/ocean.svg" alt="GitHub Ocean Contribution Snake" width="100%"/>
 
-### Retro Style Snake
-<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/retro-snake.svg" alt="GitHub Retro Contribution Snake" width="100%"/>
-
 ### Game Style Snake
 <img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/game-snake.svg" alt="GitHub Game Contribution Snake" width="100%"/>
-
-### Developer Style Snake
-<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
 
 ### Forest Style Snake
 <img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/forest-snake.svg" alt="GitHub Forest Contribution Snake" width="100%"/>
@@ -119,4 +120,4 @@
 <img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/ocean-depth-snake.svg" alt="GitHub Ocean Depth Contribution Snake" width="100%"/>
 
 ### Aurora Style Snake
-<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/aurora-snake.svg" alt="GitHub Aurora Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/aurora-snake.svg" alt="GitHub Aurora Contribution Snake" width="100%"/>-->
