@@ -61,3 +61,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=.NET%20Backend%20Developer;Backend-first%20approach;Clean%20Architecture%20&%20Clean%20Code%20Lover;Coffee%20+%20Code%20=%20Productivity;Code.%20Learn.%20Repeat.;Improving%20one%20line%20at%20a%20time;Focusing%20on%20SOLID%20principles;Building%20scalable%20APIs%20with%20C%23;Sleeping%20is%20for%20production%20only;&center=true&width=700&height=45&duration=3000&pause=1000" />
 </p>
+
+![snake gif](https://github.com/sherqiye23/sherqiye23/blob/output/github-contribution-grid-snake.svg)
