@@ -1,81 +1,99 @@
-<h1 align="center">Hi 👋, I'm Turan</h1>
-<h3 align="center">🚀 .NET Backend Developer | C# Enthusiast | Clean Architecture Advocate</h3>
-
----
-
-## 👨‍💻 About Me
-
-* 🔭 Currently building scalable backend systems
-* 💬 Specialized in **C#** and the **.NET ecosystem**
-* 🧠 Passionate about **Clean Architecture**, **SOLID principles**, and **high-performance APIs**
-* ⚡ Focused on writing clean, maintainable, and production-ready code
-* 🤝 Open to collaborations on backend & system design
-
----
-
-## 🌐 Connect With Me
+<h1 align="center">Turan Salimli</h1>
+<h3 align="center">Senior-Oriented .NET Backend Developer • System Design • Scalable Architectures</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/turan-salimli-3604b3349/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/salimli09/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/TuranSalimli" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+Building resilient, scalable backend systems with a focus on clean architecture, performance, and long-term maintainability.
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Professional Summary
 
-### 🧠 Backend
+Backend-focused engineer with strong expertise in the **.NET ecosystem**, specializing in designing and building **scalable, maintainable, and production-ready systems**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=.net&logoColor=white"/>
+I approach software as a long-term asset — prioritizing **architecture, performance, and code quality** over quick fixes.
+
+* ✔ Strong foundation in **Clean Architecture & SOLID principles**
+* ✔ Experience designing **modular and scalable APIs**
+* ✔ Focus on **real-world production concerns** (performance, caching, messaging, reliability)
+* ✔ Passion for **continuous improvement and engineering excellence**
+
+---
+
+## 🏗️ Architecture & Engineering Approach
+
+* 🧩 **Clean Architecture (Onion / Layered)** — separation of concerns, testability
+* ⚙️ **CQRS + MediatR** — decoupled and scalable request handling
+* 🔄 **Event-driven design** with messaging systems (RabbitMQ)
+* 🚀 **High-performance APIs** with caching strategies (Redis)
+* 🔐 Secure systems using **JWT authentication & authorization**
+* 📦 Containerized environments with **Docker**
+* ☁️ Cloud-ready mindset using **Azure services**
+
+---
+
+## 🚀 Featured Projects
+
+> *(Replace these with your real projects — this section is critical)*
+
+### 🔹 Scalable E-Commerce Backend
+
+* Designed RESTful API using **ASP.NET Core**
+* Implemented **CQRS pattern with MediatR**
+* Integrated **Redis caching** for performance optimization
+* Used **RabbitMQ** for async order processing
+* Applied **Clean Architecture** for maintainability
+
+### 🔹 Real-Time Notification System
+
+* Built with **SignalR** for real-time communication
+* Designed scalable event handling mechanism
+* Optimized connection handling and message delivery
+
+### 🔹 Modular API Platform
+
+* Multi-layered architecture with strict separation
+* Implemented authentication with **JWT**
+* Integrated Swagger for API documentation
+* CI/CD pipeline using **GitHub Actions**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Core
+
+<p>
+C# • .NET • ASP.NET Core • Entity Framework Core
 </p>
 
-### ⚡ Architecture & Tools
+### Architecture & Patterns
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<p>
+Clean Architecture • CQRS • MediatR • SOLID • RESTful Design
 </p>
 
-### 🗄️ Databases & Messaging
+### Data & Messaging
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<p>
+MS SQL • MySQL • Redis • RabbitMQ
 </p>
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<p>
+Docker • GitHub Actions • Azure
 </p>
 
-### 🎨 Frontend Basics
+### Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<p>
+Git • Postman • Swagger
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TuranSalimli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="55%" />
@@ -88,7 +106,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/developer-snake.svg" width="100%"/>
@@ -96,8 +114,33 @@
 
 ---
 
-## ✨ Philosophy
+## 🤝 Collaboration & Contact
+
+I’m open to:
+
+* Backend-heavy projects
+* System design discussions
+* Performance optimization challenges
+* Scalable architecture collaborations
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Clean+Code+is+not+optional;Backend+First+Mindset;Scalable+Systems+Builder;SOLID+Principles+Advocate;Code.+Learn.+Repeat.;Consistency+beats+motivation;&center=true&width=700&height=45&duration=3000&pause=1000" />
+  <a href="https://www.linkedin.com/in/turan-salimli-3604b3349/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/TuranSalimli">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
+
+---
+
+## ⚡ Engineering Mindset
+
+> “Good code works. Great code scales, survives, and tells a story.”
+
+* Build for **scale**
+* Design for **change**
+* Optimize for **clarity**
+* Deliver with **confidence**
+
+---
