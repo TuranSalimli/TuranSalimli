@@ -59,7 +59,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TuranSalimli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TuranSalimli&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuranSalimli&theme=tokyonight&hide_border=true" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=TuranSalimli&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 ---
 
