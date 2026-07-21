@@ -63,12 +63,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuranSalimli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="55%" style="vertical-align: top;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuranSalimli&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" style="vertical-align: top;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TuranSalimli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="55%" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TuranSalimli&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TuranSalimli&theme=tokyonight&hide_border=true&cache_seconds=1800" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuranSalimli&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 ---
 
