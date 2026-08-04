@@ -56,7 +56,7 @@
 
 ---
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TuranSalimli&label=Profile%20views&color=0e75b6&style=flat" />
@@ -86,7 +86,7 @@
 ### Developer Style Snake
 <img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
 
-<!-- ### Retro Style Snake
+### Retro Style Snake
 <img src="https://raw.githubusercontent.com/TuranSalimli/TuranSalimli/output/retro-snake.svg" alt="GitHub Retro Contribution Snake" width="100%"/>
 
 ### Default Snake
